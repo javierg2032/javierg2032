@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently part of the QA team at **Correcta**, where I contribute to improving product quality by identifying and documenting software issues.  
-🌱 I’m passionate about design and deeply interested in **game design and development** — an area where I aim to grow professionally.  
-💬 I consider myself a **creative and detail-oriented** person, always striving to combine functionality with aesthetics.  
-⚡ Fun fact: I love exploring new visual ideas and finding elegant ways to bring digital concepts to life.
+🔭 I have experience working in **Quality Assurance**, where I’ve focused on identifying issues and improving software quality.  
+🌱 I’m passionate about design and currently learning more about **game design and development** as a professional growth path.  
+💬 I’m a **creative and detail-oriented** person who enjoys combining clean functionality with strong visual design.  
+⚡ Fun fact: I love experimenting with visual concepts and turning abstract ideas into polished digital experiences.
 
 ---
 
@@ -42,11 +42,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=javierg2032&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=javierg2032&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
